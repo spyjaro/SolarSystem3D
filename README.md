@@ -1,1 +1,1 @@
-# SolarSystem3D
+https://spyjaro.github.io/SolarSystem3D/
